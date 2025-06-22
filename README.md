@@ -6,6 +6,8 @@
 
 *DURATION*: 4 WEEKS 
 
+*INTERN ID*:CT04DF1534
+
 *DOMAIN*: ARTIFICIAL INTELLIGENCE
 
 ***The Text Summarization Tool is a Python-based application developed to automatically condense long pieces of text into concise, meaningful summaries using Natural Language Processing (NLP) techniques. As digital content continues to grow rapidly, individuals and organizations often face the challenge of reading through extensive material to extract relevant information. This tool addresses that problem by summarizing lengthy articles, essays, reports, or any form of textual content into shorter versions while preserving the essential meaning and intent. The project leverages pre-trained transformer models provided by Hugging Face’s transformers library—specifically the facebook/bart-large-cnn model, which is widely recognized for its effectiveness in abstractive summarization tasks. Unlike extractive summarization that pulls exact sentences from the input, abstractive summarization understands the context and rewrites the key ideas in a more natural and human-like way.
