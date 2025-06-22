@@ -17,3 +17,6 @@ From a technical perspective, the script initializes a summarization pipeline us
 This tool has wide applications in education, journalism, research, and business. Students can use it to quickly understand textbook chapters or academic articles. Journalists can use it to scan press releases or lengthy reports, while researchers can summarize papers or data logs. Businesses can summarize meeting transcripts or customer feedback efficiently. Additionally, the tool sets the foundation for further development. It can be extended to support file inputs (like PDF or DOCX), provide a graphical user interface using Streamlit or Tkinter, or even be deployed as a web service.
 
 In conclusion, the Text Summarization Tool showcases how modern NLP techniques can be practically applied to solve real-world problems. By automating the time-consuming task of summarizing large volumes of text, it not only improves productivity but also demonstrates the power of AI-driven language models. With growing demand for information processing and decision-making tools, such summarization solutions are becoming increasingly valuable in both personal and professional contexts.***
+
+****OUTPUT****
+![Image](https://github.com/user-attachments/assets/d5e91c45-b53b-406e-b9f8-87bf9b15c5fe)
